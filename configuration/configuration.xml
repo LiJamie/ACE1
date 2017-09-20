@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <!--tools location path-->
+    <adb>/Users/lizongzhe/Library/Android/sdk/platform-tools/adb</adb>
+    <graphvizLayout>/usr/local/bin/dot</graphvizLayout>
+    <deviceSerialNumber>c9caa47d</deviceSerialNumber>
+    <!--apk infomation-->
+    <packageName>net.sf.andbatdog.batterydog</packageName>
+    <launchableActivity>net.sf.andbatdog.batterydog.BatteryDog
+</launchableActivity>
+    <!-- <launchableActivity>notepad.sisa.mobi.NoteList</launchableActivity> -->
+    <!--waiting time (s) , example: 2.5-->
+    <eventSleepTimeSecond>0.2</eventSleepTimeSecond>
+    <startAppSleepTimeSecond>5</startAppSleepTimeSecond>
+    <closeAppSleepTimeSecond>3</closeAppSleepTimeSecond>
+    <!--Another App Depth Threshold Value : [ 0..n]-->
+    <crossAppEventThreshold>1</crossAppEventThreshold>
+    <!--if list or grid size over threshold, than equivalent-->
+    <listGridSizeThreshold>4</listGridSizeThreshold>
+    <!--search the content of list or grid, if the size of the same row over threshold, than equivalent-->
+    <contentSensitiveListGridSizeThreshold>3</contentSensitiveListGridSizeThreshold>
+    <!--search the list or grid from head and tail, if the size of the same row over threshold, than equivalent-->
+    <headTailListGridSizeThreshold>2</headTailListGridSizeThreshold>
+    <attemptCountThreshold>2</attemptCountThreshold>
+    <timeoutSecond>10800</timeoutSecond>
+    <atTheSameStateTimeoutSecond>60</atTheSameStateTimeoutSecond>
+    <crossAppStateTimeoutSecond>60</crossAppStateTimeoutSecond>
+    <maxOccursOfComponentValue>2</maxOccursOfComponentValue>
+    <crashMessage>很抱歉 已停止</crashMessage>
+    <outputLayoutMultipleTransitionAggregation>true</outputLayoutMultipleTransitionAggregation>
+    <outputLayoutMultipleSelfLoopAggregation>true</outputLayoutMultipleSelfLoopAggregation>
+    <blockNondeterministicEvent>false</blockNondeterministicEvent>
+    <crawlingAlgorithm>DFS</crawlingAlgorithm>
+	<displayEventExcutionOrder>false</displayEventExcutionOrder>
+    <enableMenukeyEvent>true</enableMenukeyEvent>
+    <enableBackkeyEvent>true</enableBackkeyEvent>
+    <textViewClickable>false</textViewClickable>
+    <imageViewClickable>false</imageViewClickable>
+    <scrollEveryView>false</scrollEveryView>
+    <ignoreBoundsAttribute>true</ignoreBoundsAttribute>
+    <!-- specified KeyCode killing app to get coverage report
+         (check or add option in configKeyCode.xml)
+         option : false
+                  KillAppKeyCode_HTCOne6.0
+                  KillAppKeyCode_HTCOne4.4
+    -->
+    <deviceKillAppKeyCode>false</deviceKillAppKeyCode>
+    <waitForProgressBar>false</waitForProgressBar>
+    <waitForProgressBarTimeSec>15</waitForProgressBarTimeSec>
+    <appInstrumented>false</appInstrumented>
+    <!--
+         option : level1, ExactlyEquivalentStrategy, ActivityNameEquivalentStrategy
+    -->
+    <equivalentLevel>level1</equivalentLevel>
+    <!--
+     import serialization data to continue crawl
+     option : false/true
+     -->
+    <importSerializationFile>false</importSerializationFile>
+    <integrateEditText>true</integrateEditText>
+    <!--
+     Set the previous crawl result directory path (States) to continue full crawling
+     option : path
+     -->
+    <serializationDataPath>20170630_232013_batterydog_DFS</serializationDataPath>
+    <ignoreNAF>true</ignoreNAF>
+    <!--for GUIDE to customize state events-->
+    <eventOrderCustomize>false</eventOrderCustomize>
+    <generateTestCaseAlgorithm>CrawlerTransitionCoverage</generateTestCaseAlgorithm>
+    <!--
+        choose algorithm : StateCoverage / TransitionCoverage / CrawlerTransitionCoverage
+    -->
+    <generateNondeterministicPath>true</generateNondeterministicPath>
+    <!--
+        Generate nondeterministic path choose first event to nondeterministc event or restart to nondeterministic event  
+    -->
+</configuration>

@@ -1,0 +1,4 @@
+click(\"確定 index=0\")
+press(\"MenuKey\")
+click(\"index=1\")
+click(\"index=9\")

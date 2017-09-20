@@ -1,0 +1,44 @@
+press(\"MenuKey\")
+click(\"About index=1\")
+scroll(\"Up\")
+scroll(\"Down\")
+longClick(\"Email: tippytipper@gmail.com
+
+Twitter: http://www.twitter.com/mandlar 
+
+Project Website: http://code.google.com/p/tippytipper/
+
+ Personal Website: http://www.bryandenny.com
+
+ index=2[514,1062]\")
+press(\"BackKey\")
+press(\"MenuKey\")
+click(\"About index=1\")
+scroll(\"Up\")
+scroll(\"Down\")
+press(\"MenuKey\")
+scroll(\"Up\")
+scroll(\"Up\")
+scroll(\"Up\")
+swipe(\"Right\")
+swipe(\"Left\")
+press(\"BackKey\")
+press(\"MenuKey\")
+click(\"About index=1\")
+scroll(\"Up\")
+scroll(\"Up\")
+press(\"MenuKey\")
+scroll(\"Down\")
+scroll(\"Up\")
+scroll(\"Down\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"Email: tippytipper@gmail.com
+
+Twitter: http://www.twitter.com/mandlar 
+
+Project Website: http://code.google.com/p/tippytipper/
+
+ Personal Website: http://www.bryandenny.com
+
+ index=2\")

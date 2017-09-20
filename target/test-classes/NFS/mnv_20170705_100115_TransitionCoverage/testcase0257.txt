@@ -1,0 +1,7 @@
+scroll(\"Up\")
+scroll(\"Up\")
+scroll(\"Right\")
+longClick(\"index=0[540,368]\")
+longClick(\"index=1[540,482]\")
+longClick(\"index=2[540,596]\")
+press(\"BackKey\")

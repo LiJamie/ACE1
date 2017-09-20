@@ -1,0 +1,7 @@
+click(\"index=3\")
+press(\"MenuKey\")
+click(\"Add new vehicle index=0\")
+click(\"index=7\")
+press(\"BackKey\")
+click(\"index=8\")
+click(\"Gallons index=0\")

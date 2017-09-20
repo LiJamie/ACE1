@@ -1,0 +1,1 @@
+click(\"New shortcut index=1\")

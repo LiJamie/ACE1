@@ -1,0 +1,5 @@
+click(\"index=3\")
+click(\"index=0\")
+swipe(\"Right\")
+scroll(\"Right\")
+click(\"Kilometers index=1\")

@@ -1,0 +1,4 @@
+click(\"menu index=1\")
+click(\"index=3\")
+click(\"index=10\")
+click(\"CRLF(Windows) index=1\")

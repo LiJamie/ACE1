@@ -1,0 +1,7 @@
+click(\"menu index=1\")
+click(\"index=3\")
+click(\"index=2\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"1 min index=0\")
+check(\"index=0\")

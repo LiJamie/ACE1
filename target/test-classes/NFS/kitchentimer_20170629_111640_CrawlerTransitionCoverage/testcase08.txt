@@ -1,0 +1,2 @@
+click(\"接受 index=0\")
+click(\"index=0\")

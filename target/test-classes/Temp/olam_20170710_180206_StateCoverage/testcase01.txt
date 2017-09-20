@@ -1,0 +1,3 @@
+nullEditText(\"Type an English word index=1\") input(\"yes\")
+click(\"index=2\")
+scroll(\"Up\")

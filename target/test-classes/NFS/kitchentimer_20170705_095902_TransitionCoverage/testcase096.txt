@@ -1,0 +1,2 @@
+longClick(\"index=0[543,982]\")
+press(\"BackKey\")

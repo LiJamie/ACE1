@@ -1,0 +1,5 @@
+click(\"index=3\")
+click(\"index=0\")
+scroll(\"Right\")
+click(\"index=9\")
+check(\"Km / Litre index=5\")

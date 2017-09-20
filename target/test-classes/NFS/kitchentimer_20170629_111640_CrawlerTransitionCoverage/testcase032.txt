@@ -1,0 +1,6 @@
+click(\"接受 index=0\")
+press(\"MenuKey\")
+click(\"結束 index=4\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"Yes index=0\")

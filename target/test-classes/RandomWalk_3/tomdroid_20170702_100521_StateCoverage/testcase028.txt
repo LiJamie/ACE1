@@ -1,0 +1,8 @@
+click(\"確定 index=0\")
+click(\"index=1\")
+swipe(\"Right\")
+click(\"index=1\")
+press(\"BackKey\")
+click(\"在這裡輸入標題 index=0\")
+check(\"B index=0\")
+check(\"index=4\")

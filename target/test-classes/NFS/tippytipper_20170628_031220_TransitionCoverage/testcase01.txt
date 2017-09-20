@@ -1,0 +1,8 @@
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"NT$0.00 index=1\")
+click(\"7 index=0\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"NT$0.07 index=1\")
+click(\"7 index=0\")

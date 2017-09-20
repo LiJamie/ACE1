@@ -1,0 +1,3 @@
+scroll(\"Up\")
+click(\"index=11\")
+swipe(\"Right\")

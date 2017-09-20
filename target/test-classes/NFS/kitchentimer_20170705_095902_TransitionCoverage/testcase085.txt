@@ -1,0 +1,6 @@
+click(\"接受 index=0\")
+click(\"計時器 1 index=0\")
+click(\"確定 index=0\")
+click(\"計時器 2 index=0\")
+click(\"取消 index=2\")
+click(\"開始 index=1\")

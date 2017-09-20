@@ -1,0 +1,5 @@
+click(\"2 index=1\")
+press(\"MenuKey\")
+click(\"Settings index=0\")
+click(\"index=6\")
+click(\"index=1\")

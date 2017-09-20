@@ -1,0 +1,5 @@
+click(\"7 index=0\")
+click(\"Calculate! index=0\")
+click(\"10% index=0\")
+click(\"Round Down index=0\")
+click(\"Round Up index=1\")

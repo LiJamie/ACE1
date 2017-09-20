@@ -1,0 +1,5 @@
+click(\"index=3\")
+press(\"MenuKey\")
+click(\"Add new vehicle index=0\")
+scroll(\"Left\")
+check(\"Litres / 100 km index=7\")

@@ -1,0 +1,6 @@
+click(\"index=12\")
+press(\"MenuKey\")
+click(\"index=3\")
+click(\"index=11\")
+press(\"BackKey\")
+click(\"index=1\")

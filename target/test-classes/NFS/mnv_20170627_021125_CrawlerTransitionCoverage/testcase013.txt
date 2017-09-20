@@ -1,0 +1,2 @@
+press(\"MenuKey\")
+click(\"index=2\")

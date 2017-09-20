@@ -1,0 +1,6 @@
+click(\"2017/06/24 index=1\")
+click(\"index=0\")
+press(\"MenuKey\")
+click(\"index=0\")
+click(\"2018 index=1\")
+click(\"index=2\")

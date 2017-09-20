@@ -1,0 +1,7 @@
+click(\"確定 index=0\")
+click(\"index=1\")
+swipe(\"Right\")
+click(\"index=1\")
+press(\"BackKey\")
+check(\"index=5\")
+click(\"大型 index=2\")

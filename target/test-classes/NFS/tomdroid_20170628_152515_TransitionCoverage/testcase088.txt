@@ -1,0 +1,5 @@
+click(\"確定 index=0\")
+click(\"index=0\")
+click(\"   搜尋筆記 index=0\")
+longClick(\"   搜尋筆記 index=0[613,145]\")
+press(\"BackKey\")

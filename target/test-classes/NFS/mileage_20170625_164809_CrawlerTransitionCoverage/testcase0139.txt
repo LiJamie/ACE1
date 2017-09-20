@@ -1,0 +1,4 @@
+press(\"MenuKey\")
+click(\"Import / Export index=2\")
+click(\"Export data index=2\")
+scroll(\"Left\")

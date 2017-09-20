@@ -1,0 +1,2 @@
+check(\"TestTabBox index=0\")
+click(\"index=2\")

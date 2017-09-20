@@ -1,0 +1,4 @@
+click(\"確定 index=0\")
+click(\"index=0\")
+swipe(\"Right\")
+click(\"index=1\")

@@ -1,0 +1,4 @@
+press(\"MenuKey\")
+click(\"Service intervals index=1\")
+click(\"Edit templates index=2\")
+click(\"index=6\")

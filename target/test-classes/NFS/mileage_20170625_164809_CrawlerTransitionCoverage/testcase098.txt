@@ -1,0 +1,5 @@
+click(\"index=3\")
+press(\"MenuKey\")
+click(\"Add new vehicle index=0\")
+click(\"index=9\")
+click(\"Km / Gallon index=1\")

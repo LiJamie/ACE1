@@ -1,0 +1,5 @@
+check(\"TestTabBox index=0\")
+scroll(\"Down\")
+scroll(\"Up\")
+swipe(\"Right\")
+swipe(\"Left\")

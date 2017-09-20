@@ -1,0 +1,5 @@
+click(\"Type an English word index=1\")
+click(\"index=2\")
+click(\"index=0\")
+longClick(\"Type an English word index=1[624,194]\")
+press(\"BackKey\")

@@ -1,0 +1,5 @@
+click(\"接受 index=0\")
+click(\"計時器 1 index=0\")
+click(\"確定 index=0\")
+click(\"index=0\")
+longClick(\"index=2[850,1293]\")

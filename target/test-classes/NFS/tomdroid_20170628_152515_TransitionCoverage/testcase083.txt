@@ -1,0 +1,6 @@
+click(\"確定 index=0\")
+click(\"index=0\")
+swipe(\"Right\")
+click(\"index=1\")
+click(\"在這裡輸入標題 index=0\")
+click(\"在這裡輸入筆記 index=1\")

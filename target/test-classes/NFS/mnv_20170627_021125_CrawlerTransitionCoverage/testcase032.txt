@@ -1,0 +1,4 @@
+swipe(\"Right\")
+click(\"index=0\")
+swipe(\"Right\")
+click(\"index=1\")

@@ -1,0 +1,2 @@
+click(\"New shortcut index=1\")
+click(\"Direct call index=0\")

@@ -1,0 +1,3 @@
+click(\"Graph index=2\")
+press(\"MenuKey\")
+click(\"7 days index=4\")

@@ -1,0 +1,8 @@
+click(\"Calculate! index=0\")
+click(\"10% index=0\")
+press(\"MenuKey\")
+click(\"Settings index=0\")
+click(\"index=6\")
+click(\"index=7\")
+click(\"index=2\")
+click(\"index=2\")

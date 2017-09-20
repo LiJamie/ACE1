@@ -1,0 +1,7 @@
+click(\"接受 index=0\")
+click(\"index=0\")
+click(\"index=0\")
+click(\"index=0\")
+press(\"MenuKey\")
+click(\"Donate index=1\")
+click(\"Yes index=0\")

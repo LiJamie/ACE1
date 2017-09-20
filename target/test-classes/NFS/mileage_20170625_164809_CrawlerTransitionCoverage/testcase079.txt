@@ -1,0 +1,6 @@
+press(\"MenuKey\")
+click(\"Settings index=3\")
+click(\"index=1\")
+check(\"Unit price, volume index=0\")
+click(\"index=2\")
+check(\"index=0\")

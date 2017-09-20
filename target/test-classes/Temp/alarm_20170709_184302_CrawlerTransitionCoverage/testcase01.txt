@@ -1,0 +1,6 @@
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"index=0\")
+click(\"index=0\")
+check(\"Active index=0\")
+check(\"Active index=0\")

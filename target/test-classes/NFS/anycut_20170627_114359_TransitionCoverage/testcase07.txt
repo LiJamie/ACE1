@@ -1,0 +1,4 @@
+click(\"New shortcut index=1\")
+click(\"Make your own index=3\")
+click(\"確定 index=0\")
+press(\"MenuKey\")

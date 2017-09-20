@@ -1,0 +1,6 @@
+click(\"menu index=1\")
+click(\"index=3\")
+click(\"index=9\")
+click(\"utf-8 index=0\")
+click(\"index=9\")
+check(\"Shift-JIS index=1\")

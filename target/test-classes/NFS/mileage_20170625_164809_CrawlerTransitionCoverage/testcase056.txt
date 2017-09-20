@@ -1,0 +1,6 @@
+click(\"index=3\")
+click(\"index=0\")
+scroll(\"Right\")
+check(\"Miles / Gallon index=0\")
+scroll(\"Left\")
+check(\"Km / Gallon index=1\")

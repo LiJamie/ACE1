@@ -1,0 +1,7 @@
+check(\"TestTabBox index=0\")
+check(\"TestTabBox index=0\")
+scroll(\"Left\")
+scroll(\"Right\")
+scroll(\"Left\")
+scroll(\"Left\")
+press(\"MenuKey\")

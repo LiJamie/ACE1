@@ -1,0 +1,2 @@
+click(\"Calculate! index=0\")
+click(\"Round Up index=1\")

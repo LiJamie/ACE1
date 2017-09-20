@@ -1,0 +1,8 @@
+swipe(\"Right\")
+press(\"MenuKey\")
+click(\"index=0\")
+click(\"menu index=1\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"index=0\")
+click(\"index=1\")

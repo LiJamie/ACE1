@@ -1,0 +1,2 @@
+click(\"接受 index=0\")
+click(\"計時器 1 index=0\")

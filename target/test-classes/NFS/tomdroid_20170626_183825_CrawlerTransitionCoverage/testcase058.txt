@@ -1,0 +1,7 @@
+click(\"確定 index=0\")
+click(\"index=1\")
+swipe(\"Right\")
+click(\"index=0\")
+click(\"index=0\")
+check(\"index=5\")
+check(\"小型 index=0\")

@@ -1,0 +1,2 @@
+click(\"Show Formatted index=1\")
+press(\"BackKey\")

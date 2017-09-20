@@ -1,0 +1,4 @@
+click(\"index=12\")
+click(\"index=1\")
+click(\"index=1\")
+click(\"index=3\")

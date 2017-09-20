@@ -1,0 +1,6 @@
+click(\"接受 index=0\")
+click(\"index=0\")
+click(\"01 index=1\")
+click(\"index=2\")
+click(\"index=0\")
+click(\"index=0\")

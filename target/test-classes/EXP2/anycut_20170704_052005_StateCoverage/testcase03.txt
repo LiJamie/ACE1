@@ -1,0 +1,4 @@
+click(\"New shortcut index=1\")
+click(\"Activity index=2\")
+scroll(\"Right\")
+click(\"確定 index=0\")

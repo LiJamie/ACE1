@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+	<!--<value xpath="XPath">Value</value>-->
+	<!--example: <node xpath="//*/node[@NAF='ture'][@class='android.widget.EditText']">testText</value>-->
+	<!-- <value xpath="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">cd</value> -->
+	<!-- <value xpath="//*/node[@text='无标题']">ab</value> -->
+	<!-- also can use for MyApplication5 -->
+	<!-- 
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.view.View']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText' and @index = '2']">test1</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.view.View']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText' and @index = '2']">test2</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.view.View']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText' and @index = '4']">test135</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.view.View']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText' and @index = '4']">test246</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.EditText']">abcd</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.EditText']">abcd</value>
+	 -->
+<!-- 
+	 	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+		 	              /node[@class='android.widget.LinearLayout']
+					  /node[@class='android.widget.FrameLayout']
+	                  /node[@class='android.widget.LinearLayout']
+					  /node[@class='android.widget.ScrollView']
+                      /node[@class='android.widget.EditText' and @index = '0']">maru</value>
+	
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+					  /node[@class='android.widget.FrameLayout']
+					  /node[@class='android.widget.FrameLayout']
+	                  /node[@class='android.widget.LinearLayout']
+					  /node[@class='android.widget.FrameLayout']
+					  /node[@class='android.widget.FrameLayout']
+					  /node[@class='android.widget.LinearLayout']
+                      /node[@class='android.widget.EditText' and @index = '0']">maru</value>
+
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+	 	              /node[@class='android.widget.LinearLayout']
+					  /node[@class='android.widget.FrameLayout']
+	                  /node[@class='android.widget.LinearLayout']
+                      /node[@class='android.widget.EditText' and @index = '3']">maru</value>
+
+	 	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+		 	              /node[@class='android.widget.LinearLayout']
+					  /node[@class='android.widget.FrameLayout']
+	                  /node[@class='android.widget.LinearLayout']
+                      /node[@class='android.widget.EditText' and @index = '3']">maru</value>
+	 	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+		 	              /node[@class='android.widget.LinearLayout']
+					  /node[@class='android.widget.FrameLayout']
+	                  /node[@class='android.widget.LinearLayout']
+	                  /node[@class='android.widget.LinearLayout']
+                      /node[@class='android.widget.EditText' and @index = '1']">maru</value>
+-->
+
+	
+	<!-- 
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">Note1</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">Note2</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">monday</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">tuesday</value>
+	 -->
+	<!-- new Android version mobile -->
+	<!-- 
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.view.ViewGroup']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">Note1</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.view.ViewGroup']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">Note2</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.view.ViewGroup']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">monday</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.view.ViewGroup']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText']">tuesday</value>
+	 -->
+	 <!-- testSpecialInputData -->
+    <!-- 
+	 <value xpath ="//*/node[@class='android.widget.FrameLayout']
+    /node[@class='android.widget.LinearLayout' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '0']
+    /node[@class='android.view.View' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '1']
+    /node[@class='android.view.View' and @index = '0']
+    /node[@class='android.widget.RelativeLayout' and @index = '0']
+    /node[@class='android.widget.EditText' and @index = '2']">test1</value>
+    <value xpath ="//*/node[@class='android.widget.FrameLayout']
+    /node[@class='android.widget.LinearLayout' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '0']
+    /node[@class='android.view.View' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '1']
+    /node[@class='android.view.View' and @index = '0']
+    /node[@class='android.widget.RelativeLayout' and @index = '0']
+    /node[@class='android.widget.EditText' and @index = '4']">test135</value>
+	-->
+
+	<!-- testInputData -->
+	 <!--
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+    /node[@class='android.widget.LinearLayout' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '0']
+    /node[@class='android.view.View' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '1']
+    /node[@class='android.widget.RelativeLayout' and @index = '0']
+    /node[@class='android.widget.EditText' and @index = '2']">test1</value>
+    <value xpath ="//*/node[@class='android.widget.FrameLayout']
+    /node[@class='android.widget.LinearLayout' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '0']
+    /node[@class='android.view.View' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '1']
+    /node[@class='android.widget.RelativeLayout' and @index = '0']
+    /node[@class='android.widget.EditText' and @index = '4']">test135</value>
+    -->
+	<!-- 
+    <value xpath ="//*/node[@class='android.widget.FrameLayout']
+    /node[@class='android.widget.LinearLayout' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '0']
+    /node[@class='android.view.View' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '1']
+    /node[@class='android.widget.RelativeLayout' and @index = '0']
+    /node[@class='android.widget.EditText' and @index = '2']">test2</value>
+    <value xpath ="//*/node[@class='android.widget.FrameLayout']
+    /node[@class='android.widget.LinearLayout' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '0']
+    /node[@class='android.view.View' and @index = '0']
+    /node[@class='android.widget.FrameLayout' and @index = '1']
+    /node[@class='android.widget.RelativeLayout' and @index = '0']
+    /node[@class='android.widget.EditText' and @index = '4']">test246</value>
+ 	-->
+	<!-- 
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.view.ViewGroup']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText' and @index = '2']">test1</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.view.ViewGroup']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText' and @index = '2']">test2</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.view.ViewGroup']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText' and @index = '4']">test135</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']/node[@class='android.widget.LinearLayout']/node[@class='android.widget.FrameLayout']/node[@class='android.view.ViewGroup']/node[@class='android.widget.FrameLayout']/node[@class='android.widget.RelativeLayout']/node[@class='android.widget.EditText' and @index = '4']">test246</value>
+	  -->
+	
+	<!-- 
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.TabHost']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.ScrollView']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.TableLayout']
+	/node[@class='android.widget.TableRow']
+	/node[@class='android.widget.EditText' and @index = '0']">1</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.TabHost']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.ScrollView']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.TableLayout']
+	/node[@class='android.widget.TableRow' and @index = '0']
+	/node[@class='android.widget.EditText' and @index = '1']">2</value>
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.TabHost']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.ScrollView']
+	/node[@class='android.widget.LinearLayout']
+	/node[@class='android.widget.TableLayout']
+	/node[@class='android.widget.TableRow' and @index = '1']
+	/node[@class='android.widget.EditText' and @index = '0']">3</value>
+	-->
+	
+	<!-- Olam -->
+	<value xpath ="//*/node[@class='android.widget.FrameLayout']
+	/node[@class='android.widget.LinearLayout' and @index = '0']
+	/node[@class='android.widget.FrameLayout' and @index = '0']
+	/node[@class='android.widget.RelativeLayout' and @index = '0']
+	/node[@class='android.widget.LinearLayout' and @index = '0']
+	/node[@class='android.widget.EditText' and @index = '1']">yes</value>
+</text>

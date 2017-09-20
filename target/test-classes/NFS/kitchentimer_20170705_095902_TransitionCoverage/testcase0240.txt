@@ -1,0 +1,4 @@
+click(\"接受 index=0\")
+press(\"MenuKey\")
+click(\"首選項 index=3\")
+click(\"index=11\")

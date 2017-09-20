@@ -1,0 +1,8 @@
+click(\"index=0\")
+click(\"index=1\")
+click(\"index=1\")
+click(\"index=2\")
+click(\"index=1\")
+click(\"index=3\")
+click(\"index=1\")
+press(\"BackKey\")

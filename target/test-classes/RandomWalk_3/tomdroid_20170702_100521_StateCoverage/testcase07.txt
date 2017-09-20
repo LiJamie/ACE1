@@ -1,0 +1,8 @@
+click(\"確定 index=0\")
+click(\"index=1\")
+swipe(\"Right\")
+click(\"index=1\")
+click(\"是的 index=1\")
+press(\"MenuKey\")
+click(\"index=1\")
+click(\"Choose a file below that is either a Tomboy note file (which will be imported) or a plain text file (which will create a new note): index=0\")

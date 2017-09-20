@@ -1,0 +1,4 @@
+click(\"index=0\")
+check(\"Active index=0\")
+check(\"Vibrate index=6\")
+check(\"Active index=0\")

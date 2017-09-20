@@ -1,0 +1,6 @@
+click(\"index=4\")
+press(\"MenuKey\")
+click(\"index=3\")
+click(\"index=2\")
+check(\"1 min index=0\")
+check(\"index=0\")

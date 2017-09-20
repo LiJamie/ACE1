@@ -1,0 +1,6 @@
+click(\"New shortcut index=1\")
+click(\"Make your own index=3\")
+longClick(\"index=1[540,301]\")
+longClick(\"index=3[540,518]\")
+longClick(\"index=5[540,735]\")
+press(\"BackKey\")

@@ -1,0 +1,4 @@
+click(\"index=3\")
+click(\"index=0\")
+click(\"index=8\")
+click(\"Litres index=1\")

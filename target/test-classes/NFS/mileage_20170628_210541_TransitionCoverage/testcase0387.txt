@@ -1,0 +1,8 @@
+check(\"Tank was not filled to the top index=2\")
+click(\"Comment index=1\")
+click(\"Save Fillup index=1\")
+longClick(\"Price per Gallons index=0[270,425]\")
+longClick(\"Gallons index=1[810,425]\")
+longClick(\"Odometer index=0[270,569]\")
+longClick(\"Comment index=1[540,931]\")
+press(\"BackKey\")

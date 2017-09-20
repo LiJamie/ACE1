@@ -1,0 +1,5 @@
+nullEditText(\"Type an English word index=1\") input(\"yes\")
+click(\"index=0\")
+longClick(\"yes index=1[624,194]\")
+press(\"BackKey\")
+press(\"MenuKey\")

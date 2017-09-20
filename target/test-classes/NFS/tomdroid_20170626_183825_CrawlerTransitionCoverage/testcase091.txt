@@ -1,0 +1,7 @@
+click(\"確定 index=0\")
+click(\"index=1\")
+press(\"MenuKey\")
+click(\"index=0\")
+check(\"index=0\")
+check(\"index=0\")
+click(\"index=3\")

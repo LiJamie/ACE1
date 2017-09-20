@@ -1,0 +1,8 @@
+click(\"index=2\")
+click(\"index=16\")
+click(\"Cost per distance index=17\")
+click(\"index=18\")
+click(\"index=19\")
+click(\"index=20\")
+click(\"Fuel price index=21\")
+press(\"BackKey\")

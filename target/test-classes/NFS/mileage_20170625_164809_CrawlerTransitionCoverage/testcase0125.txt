@@ -1,0 +1,5 @@
+press(\"MenuKey\")
+click(\"Service intervals index=1\")
+click(\"Add service interval index=1\")
+scroll(\"Right\")
+click(\"Timing belt index=5\")

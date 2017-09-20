@@ -1,0 +1,8 @@
+click(\"index=3\")
+press(\"MenuKey\")
+click(\"Add new vehicle index=0\")
+scroll(\"Up\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"Miles / Gallon index=0\")
+swipe(\"Right\")

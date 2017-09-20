@@ -1,0 +1,4 @@
+check(\"TestTabBox index=0\")
+check(\"TestTabBox index=0\")
+scroll(\"Right\")
+scroll(\"Left\")

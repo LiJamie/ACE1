@@ -1,0 +1,7 @@
+click(\"New shortcut index=1\")
+click(\"Activity index=2\")
+scroll(\"Right\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"工程模式 index=1\")
+click(\"確定 index=0\")

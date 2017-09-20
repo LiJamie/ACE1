@@ -1,0 +1,4 @@
+click(\"1 index=2\")
+click(\"1 index=2\")
+longClick(\"11 index=1[354,527]\")
+press(\"BackKey\")

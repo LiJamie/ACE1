@@ -1,0 +1,5 @@
+press(\"MenuKey\")
+click(\"Import / Export index=2\")
+click(\"Import data index=1\")
+click(\"index=1\")
+check(\"mileage-export.3.db index=4\")

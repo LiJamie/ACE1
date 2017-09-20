@@ -1,0 +1,3 @@
+check(\"Tank was not filled to the top index=2\")
+click(\"index=0\")
+click(\"index=1\")

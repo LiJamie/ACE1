@@ -1,0 +1,6 @@
+click(\"接受 index=0\")
+click(\"index=2\")
+press(\"MenuKey\")
+click(\"首選項 index=3\")
+check(\"index=0\")
+click(\"index=7\")

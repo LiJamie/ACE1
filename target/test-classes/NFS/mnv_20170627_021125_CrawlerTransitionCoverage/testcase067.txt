@@ -1,0 +1,4 @@
+click(\"index=11\")
+longClick(\"index=0[540,368]\")
+longClick(\"index=1[540,482]\")
+press(\"BackKey\")

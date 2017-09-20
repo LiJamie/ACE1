@@ -1,0 +1,4 @@
+click(\"index=2\")
+scroll(\"Up\")
+click(\"Fuel consumption index=11\")
+click(\"index=12\")

@@ -1,0 +1,6 @@
+click(\"menu index=1\")
+click(\"index=3\")
+click(\"index=10\")
+click(\"Auto detected index=0\")
+click(\"index=10\")
+check(\"CRLF(Windows) index=1\")

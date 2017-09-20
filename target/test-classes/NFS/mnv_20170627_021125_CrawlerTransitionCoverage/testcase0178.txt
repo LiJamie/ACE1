@@ -1,0 +1,4 @@
+click(\"index=11\")
+click(\"index=0\")
+click(\"index=11\")
+click(\"go up index=0\")

@@ -1,0 +1,4 @@
+click(\"menu index=1\")
+click(\"index=3\")
+click(\"index=9\")
+check(\"euc-kr index=5\")

@@ -1,0 +1,2 @@
+click(\"1 index=2\")
+click(\"8 index=7\")

@@ -1,0 +1,6 @@
+click(\"index=1\")
+press(\"BackKey\")
+click(\"index=1\")
+press(\"MenuKey\")
+longClick(\"index=0[828,147]\")
+press(\"BackKey\")

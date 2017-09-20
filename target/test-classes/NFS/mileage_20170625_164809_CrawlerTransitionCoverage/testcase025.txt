@@ -1,0 +1,6 @@
+click(\"index=3\")
+press(\"MenuKey\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"Add new vehicle index=0\")
+check(\"This is the default vehicle index=5\")

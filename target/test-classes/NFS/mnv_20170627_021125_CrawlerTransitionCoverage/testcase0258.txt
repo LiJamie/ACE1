@@ -1,0 +1,4 @@
+click(\"menu index=1\")
+click(\"index=3\")
+click(\"index=9\")
+click(\"windows-1250 index=2\")

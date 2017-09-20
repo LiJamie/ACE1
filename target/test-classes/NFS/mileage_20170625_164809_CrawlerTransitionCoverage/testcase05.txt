@@ -1,0 +1,6 @@
+click(\"Price per Gallons index=0\")
+click(\"Gallons index=1\")
+click(\"Odometer index=0\")
+click(\"2017/06/24 index=1\")
+click(\"2017 index=1\")
+click(\"index=2\")

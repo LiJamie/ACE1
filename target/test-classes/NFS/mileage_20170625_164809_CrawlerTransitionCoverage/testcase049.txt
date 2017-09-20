@@ -1,0 +1,5 @@
+click(\"index=2\")
+scroll(\"Up\")
+click(\"index=16\")
+click(\"Fillup locations index=17\")
+click(\"index=18\")

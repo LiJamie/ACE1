@@ -1,0 +1,7 @@
+click(\"index=2\")
+click(\"Fillup costs index=8\")
+click(\"index=9\")
+press(\"BackKey\")
+click(\"index=10\")
+press(\"BackKey\")
+click(\"index=11\")

@@ -1,0 +1,6 @@
+click(\"7 index=0\")
+click(\"Calculate! index=0\")
+click(\"10% index=0\")
+press(\"MenuKey\")
+click(\"About index=1\")
+press(\"MenuKey\")

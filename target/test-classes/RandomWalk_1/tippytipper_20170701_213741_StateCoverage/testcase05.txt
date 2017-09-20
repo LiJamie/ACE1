@@ -1,0 +1,6 @@
+click(\"2 index=1\")
+press(\"MenuKey\")
+press(\"MenuKey\")
+click(\"Round Down index=0\")
+click(\"Split Bill index=0\")
+click(\"plus index=2\")

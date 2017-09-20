@@ -1,0 +1,4 @@
+click(\"index=4\")
+click(\"go up index=0\")
+scroll(\"Down\")
+click(\"index=5\")

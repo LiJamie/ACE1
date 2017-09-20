@@ -1,0 +1,5 @@
+click(\"menu index=1\")
+click(\"index=3\")
+click(\"index=2\")
+click(\"3 min index=1\")
+click(\"index=2\")

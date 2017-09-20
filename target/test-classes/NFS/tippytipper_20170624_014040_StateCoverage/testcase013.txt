@@ -1,0 +1,7 @@
+press(\"MenuKey\")
+click(\"Settings index=0\")
+click(\"index=9\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"Round Tip index=0\")
+click(\"index=9\")

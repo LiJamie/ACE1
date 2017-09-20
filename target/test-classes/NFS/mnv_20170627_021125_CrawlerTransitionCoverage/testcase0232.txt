@@ -1,0 +1,5 @@
+click(\"menu index=1\")
+click(\"index=3\")
+scroll(\"Up\")
+click(\"index=3\")
+check(\"index=0\")

@@ -1,0 +1,7 @@
+press(\"MenuKey\")
+click(\"Settings index=3\")
+check(\"index=0\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"index=0\")
+check(\"index=0\")

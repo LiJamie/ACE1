@@ -1,0 +1,7 @@
+click(\"7 index=0\")
+click(\"Calculate! index=0\")
+click(\"Split Bill index=0\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"minus index=0\")
+click(\"plus index=2\")

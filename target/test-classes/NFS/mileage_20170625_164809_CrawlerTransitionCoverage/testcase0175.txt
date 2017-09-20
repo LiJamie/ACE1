@@ -1,0 +1,6 @@
+click(\"index=1\")
+press(\"MenuKey\")
+click(\"Settings index=2\")
+check(\"index=0\")
+click(\"index=10\")
+click(\"Check out aiCharts! index=11\")

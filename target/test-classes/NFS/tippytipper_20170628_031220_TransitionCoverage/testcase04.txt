@@ -1,0 +1,2 @@
+click(\"7 index=0\")
+click(\"4 index=0\")

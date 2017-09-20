@@ -1,0 +1,2 @@
+click(\"New shortcut index=1\")
+click(\"Make your own index=3\")

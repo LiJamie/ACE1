@@ -1,0 +1,4 @@
+click(\"1 index=2\")
+click(\"1 index=2\")
+click(\"reset index=11\")
+click(\"4 index=3\")

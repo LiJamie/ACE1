@@ -1,0 +1,7 @@
+click(\"Graph index=2\")
+swipe(\"Right\")
+swipe(\"Left\")
+press(\"BackKey\")
+click(\"[press refresh] index=2\")
+longClick(\"[press refresh] index=2[540,1187]\")
+press(\"BackKey\")

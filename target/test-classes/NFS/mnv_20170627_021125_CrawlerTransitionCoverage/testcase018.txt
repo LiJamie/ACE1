@@ -1,0 +1,4 @@
+scroll(\"Up\")
+click(\"index=1\")
+click(\"index=0\")
+scroll(\"Right\")

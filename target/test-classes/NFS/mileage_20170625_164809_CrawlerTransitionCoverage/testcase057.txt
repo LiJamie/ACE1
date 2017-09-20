@@ -1,0 +1,4 @@
+click(\"index=3\")
+click(\"index=0\")
+scroll(\"Down\")
+check(\"Miles / Imp. Gal. index=2\")

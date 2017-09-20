@@ -1,0 +1,7 @@
+scroll(\"Up\")
+scroll(\"Down\")
+scroll(\"Up\")
+scroll(\"Up\")
+scroll(\"Down\")
+scroll(\"Up\")
+swipe(\"Right\")

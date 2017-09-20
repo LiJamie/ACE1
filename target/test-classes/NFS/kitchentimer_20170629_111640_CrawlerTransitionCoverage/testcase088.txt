@@ -1,0 +1,7 @@
+click(\"接受 index=0\")
+press(\"MenuKey\")
+click(\"結束 index=4\")
+click(\"取消 index=1\")
+press(\"MenuKey\")
+click(\"結束 index=4\")
+click(\"No index=2\")

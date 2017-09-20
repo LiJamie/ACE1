@@ -1,0 +1,7 @@
+click(\"index=1\")
+press(\"MenuKey\")
+click(\"Settings index=2\")
+check(\"index=0\")
+click(\"index=1\")
+click(\"取消 index=2\")
+click(\"index=2\")

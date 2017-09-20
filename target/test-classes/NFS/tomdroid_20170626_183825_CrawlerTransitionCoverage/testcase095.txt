@@ -1,0 +1,6 @@
+click(\"確定 index=0\")
+press(\"MenuKey\")
+click(\"index=1\")
+scroll(\"Up\")
+click(\"index=5\")
+scroll(\"Down\")

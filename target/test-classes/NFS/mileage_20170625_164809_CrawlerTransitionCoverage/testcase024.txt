@@ -1,0 +1,8 @@
+click(\"index=2\")
+press(\"MenuKey\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"Recalculate index=0\")
+scroll(\"Up\")
+scroll(\"Up\")
+swipe(\"Right\")

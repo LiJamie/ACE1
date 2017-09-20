@@ -1,0 +1,6 @@
+click(\"2017/06/24 index=1\")
+click(\"index=0\")
+click(\"7月 index=1\")
+click(\"index=2\")
+click(\"index=0\")
+click(\"index=0\")

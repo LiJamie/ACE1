@@ -1,0 +1,5 @@
+press(\"MenuKey\")
+click(\"Settings index=3\")
+check(\"index=0\")
+click(\"index=9\")
+check(\"index=0\")

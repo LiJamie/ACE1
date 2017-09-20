@@ -1,0 +1,6 @@
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"New shortcut index=1\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"Direct call index=0\")

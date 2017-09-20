@@ -1,0 +1,4 @@
+click(\"index=3\")
+click(\"index=0\")
+scroll(\"Up\")
+check(\"Km / Imp. Gal. index=3\")

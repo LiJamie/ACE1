@@ -1,0 +1,26 @@
+click(\"7 index=0\")
+click(\"Calculate! index=0\")
+click(\"10% index=0\")
+press(\"MenuKey\")
+click(\"About index=1\")
+scroll(\"Up\")
+scroll(\"Down\")
+scroll(\"Up\")
+scroll(\"Up\")
+scroll(\"Right\")
+scroll(\"Left\")
+scroll(\"Down\")
+scroll(\"Right\")
+scroll(\"Left\")
+scroll(\"Down\")
+longClick(\"Email: tippytipper@gmail.com
+
+Twitter: http://www.twitter.com/mandlar 
+
+Project Website: http://code.google.com/p/tippytipper/
+
+ Personal Website: http://www.bryandenny.com
+
+ index=2[514,1063]\")
+press(\"BackKey\")
+click(\"5 index=1\")

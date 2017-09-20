@@ -1,0 +1,7 @@
+click(\"接受 index=0\")
+press(\"MenuKey\")
+click(\"預設 index=2\")
+click(\"index=0\")
+swipe(\"Right\")
+swipe(\"Left\")
+click(\"index=0\")

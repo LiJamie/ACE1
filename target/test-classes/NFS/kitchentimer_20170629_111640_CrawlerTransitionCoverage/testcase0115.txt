@@ -1,0 +1,6 @@
+click(\"接受 index=0\")
+press(\"MenuKey\")
+click(\"預設 index=2\")
+click(\"index=0\")
+click(\"00 index=1\")
+click(\"index=2\")

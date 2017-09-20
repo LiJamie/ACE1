@@ -1,0 +1,4 @@
+click(\"index=3\")
+press(\"MenuKey\")
+click(\"Edit vehicle types index=1\")
+press(\"MenuKey\")

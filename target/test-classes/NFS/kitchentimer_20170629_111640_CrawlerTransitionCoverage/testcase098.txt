@@ -1,0 +1,8 @@
+click(\"接受 index=0\")
+click(\"index=0\")
+click(\"開始 index=1\")
+swipe(\"Left\")
+click(\"停止 index=1\")
+click(\"開始 index=1\")
+swipe(\"Left\")
+click(\"開始 index=0\")

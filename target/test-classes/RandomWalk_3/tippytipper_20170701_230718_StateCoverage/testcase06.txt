@@ -1,0 +1,5 @@
+click(\"Calculate! index=0\")
+click(\"Round Down index=0\")
+press(\"MenuKey\")
+click(\"Settings index=0\")
+click(\"index=4\")

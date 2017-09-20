@@ -1,0 +1,6 @@
+press(\"MenuKey\")
+press(\"MenuKey\")
+click(\"7 index=0\")
+click(\"Calculate! index=0\")
+click(\"Round Down index=0\")
+click(\"Round Up index=1\")

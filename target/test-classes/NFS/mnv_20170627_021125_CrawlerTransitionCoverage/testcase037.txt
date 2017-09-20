@@ -1,0 +1,5 @@
+click(\"index=1\")
+scroll(\"Down\")
+scroll(\"Up\")
+click(\"index=1\")
+swipe(\"Right\")

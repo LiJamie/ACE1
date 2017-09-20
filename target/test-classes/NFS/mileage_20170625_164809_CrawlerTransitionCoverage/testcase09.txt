@@ -1,0 +1,4 @@
+check(\"Tank was not filled to the top index=2\")
+click(\"index=3\")
+longClick(\"index=0[540,364]\")
+press(\"BackKey\")

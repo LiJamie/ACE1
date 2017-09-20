@@ -1,0 +1,7 @@
+scroll(\"Right\")
+click(\"index=1\")
+click(\"index=1\")
+click(\"go up index=0\")
+scroll(\"Down\")
+click(\"index=9\")
+click(\"menu index=1\")

@@ -1,0 +1,2 @@
+click(\"2017/06/24 index=1\")
+click(\"index=0\")

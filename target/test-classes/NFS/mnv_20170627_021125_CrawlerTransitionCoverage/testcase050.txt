@@ -1,0 +1,4 @@
+click(\"index=1\")
+press(\"MenuKey\")
+click(\"index=1\")
+click(\"OK index=1\")

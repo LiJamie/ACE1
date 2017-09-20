@@ -1,0 +1,5 @@
+click(\"接受 index=0\")
+click(\"index=0\")
+click(\"開始 index=1\")
+longClick(\"index=0[230,1032]\")
+click(\"00:00 index=1\")

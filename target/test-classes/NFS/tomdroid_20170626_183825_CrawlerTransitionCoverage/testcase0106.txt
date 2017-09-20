@@ -1,0 +1,7 @@
+click(\"確定 index=0\")
+click(\"index=1\")
+swipe(\"Right\")
+click(\"index=0\")
+click(\"index=0\")
+check(\"B index=0\")
+click(\"index=4\")

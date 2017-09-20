@@ -1,0 +1,2 @@
+click(\"Raw Format index=0\")
+press(\"BackKey\")
